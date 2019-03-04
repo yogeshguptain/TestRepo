@@ -1,0 +1,6 @@
+# Senior developers will review changes to all files in
+# this branch.
+*       @it-commonservices/commercial-sr-devs-test
+
+# Add any file-specific code owners (e.g. *.config for config managers)
+# Precedence is given to the rule furthest down in this file
